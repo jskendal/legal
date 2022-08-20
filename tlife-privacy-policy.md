@@ -1,5 +1,5 @@
 # Privacy Policy
-tlife, Free music player timer
+Tlife, Free music player timer
  
 <br/>
 Last updated: 08/17/2022<br/><br/>
